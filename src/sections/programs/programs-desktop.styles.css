@@ -1,0 +1,32 @@
+@media screen and (min-width: 1200px) {
+  .programs img {
+    width: 50px;
+  }
+
+  .programs {
+    height: auto;
+    padding: 0px 200px 150px 200px;
+  }
+
+  .programs-info {
+    display: grid;
+    justify-content: space-around;
+    grid-template-columns: [first] 350px [line2] 350px [line3] 350px;
+  }
+
+  .programs-info div {
+    padding-top: 120px;
+  }
+
+  .programs-title {
+    padding-top: 100px;
+    padding-bottom: 70px;
+  }
+
+  .programs-title p {
+    text-align: center;
+    font-size: 1rem;
+    padding-left: 20vw;
+    padding-right: 20vw;
+  }
+}

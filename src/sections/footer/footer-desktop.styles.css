@@ -1,0 +1,14 @@
+@media screen and (min-width: 1200px) {
+  footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .footer-form {
+    padding: 150px 150px 150px 150px;
+  }
+
+  .footer-contant-info {
+    padding: 150px 150px 150px 150px;
+  }
+}

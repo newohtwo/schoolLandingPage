@@ -1,0 +1,19 @@
+@media screen and (min-width: 540px) and (max-width: 810px) {
+  .header-hand-img {
+    z-index: 1;
+    height: 400px;
+    position: relative;
+    top: -50px;
+    left: 30vw;
+  }
+}
+/* tilted tablet */
+@media screen and (orientation: landscape) {
+  .header-hand-img {
+    z-index: 1;
+    height: 400px;
+    position: relative;
+    top: -50px;
+    left: 45vw;
+  }
+}

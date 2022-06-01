@@ -1,0 +1,37 @@
+@media screen and (min-width: 1200px) {
+  .about {
+    background-color: #ec6484;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .about-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .about-title {
+    font-size: 2.2rem;
+    text-align: start;
+  }
+
+  .about-title h2 {
+    color: white;
+    padding-bottom: 20px;
+  }
+  .about-title h3 {
+    word-break: break-all;
+    color: #490d1b;
+    font-size: 1.5rem;
+  }
+
+  .about-text {
+    margin-left: 50px;
+    font-size: 1.2rem;
+    text-align: start;
+    color: #490d1b;
+    max-width: 700px;
+    padding: 0px;
+  }
+}

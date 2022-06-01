@@ -1,0 +1,40 @@
+.programs img {
+  width: 40px;
+}
+
+.programs {
+  height: auto;
+  padding: 0px 50px 40px 50px;
+}
+.programs-components {
+  display: flex;
+  flex-direction: column;
+}
+
+.programs-info div {
+  padding-top: 30px;
+}
+
+.programs-info h2 {
+  font-size: 2rem;
+  padding-bottom: 15px;
+}
+
+.programs-info p {
+  font-size: 1rem;
+}
+
+.programs-title {
+  text-align: center;
+}
+
+.programs-title h2 {
+  font-size: 2rem;
+  padding-bottom: 15px;
+  padding-top: 45px;
+}
+
+.programs-title p {
+  text-align: center;
+  font-size: 1rem;
+}

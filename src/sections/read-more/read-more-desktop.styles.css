@@ -1,0 +1,33 @@
+@media screen and (min-width: 1200px) {
+  .read-more {
+    background-color: #feee8f;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    width: 100vw;
+  }
+
+  .read-more-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .read-more-container img {
+    width: 40vw;
+    height: 500px;
+    object-fit: cover;
+  }
+
+  .read-more-info-text {
+    width: 700px;
+  }
+
+  .read-more-container h2 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 2.1rem;
+  }
+  .read-more-container p {
+    font-size: 1.2rem;
+  }
+}

@@ -1,0 +1,16 @@
+/* For Tablets */
+@media screen and (min-width: 540px) and (max-width: 810px) {
+  .read-more-container img {
+    width: 90vw;
+    height: 300px;
+    object-fit: cover;
+  }
+}
+/* tilted tablet */
+@media screen and (orientation: landscape) {
+  .read-more-container img {
+    width: 90vw;
+    height: 300px;
+    object-fit: cover;
+  }
+}
